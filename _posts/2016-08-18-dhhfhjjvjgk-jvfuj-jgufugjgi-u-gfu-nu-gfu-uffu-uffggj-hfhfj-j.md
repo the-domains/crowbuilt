@@ -2,7 +2,7 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-18T21:36:01.899Z'
+dateModified: '2016-08-18T21:36:55.967Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,10 +10,10 @@ description: >-
   Dhhfhjjvjgk jvfuj jgufugjgi u gfu nu gfu uffu uffggj hfhfj jfjgj hfufh h
   fugigj h ff in NJ uffj gufhv nchcvjggu h chf 
 via: {}
-datePublished: '2016-08-18T21:36:03.704Z'
-starred: false
+datePublished: '2016-08-18T21:36:56.121Z'
 sourcePath: >-
   _posts/2016-08-18-dhhfhjjvjgk-jvfuj-jgufugjgi-u-gfu-nu-gfu-uffu-uffggj-hfhfj-j.md
+starred: false
 _type: Blurb
 
 ---
