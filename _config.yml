@@ -1,6 +1,9 @@
 name: Crowbuilt
 layout_spectrum: 0.19722215561425904
 typography_spectrum: 0.16769946413866177
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -12,3 +15,10 @@ color:
   lightness: 0.9092399335159568
   saturation: 0.7944722219022137
   rhythmicContrast: 0.8622893031695644
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
