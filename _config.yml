@@ -1,20 +1,20 @@
 name: Crowbuilt
-layout_spectrum: 0.19722215561425904
-typography_spectrum: 0.16769946413866177
+layout_spectrum: 0.020603099837899208
+typography_spectrum: 0.4507822319865227
 opengraph:
   type: ''
   appId: ''
 color:
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  brandStrength: 0.7935574669067054
-  lightness: 0.9092399335159568
-  saturation: 0.7944722219022137
-  rhythmicContrast: 0.8622893031695644
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+  brandStrength: 0.4815657865256071
+  lightness: 0.5088161840103567
+  saturation: 0.8743974424432963
+  rhythmicContrast: 0.3853417783975601
 title: ''
 author:
   name: ''
@@ -22,3 +22,5 @@ author:
   email: ''
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
