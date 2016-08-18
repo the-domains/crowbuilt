@@ -1,8 +1,12 @@
 name: Crowbuilt
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64f8f076-29aa-4fcb-896f-d2d9c451f1fc.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b7fbb08-10de-4aec-b390-faa2ee149aba.jpg
 layout_spectrum: 0.020603099837899208
 typography_spectrum: 0.4507822319865227
 opengraph:
-  type: ''
+  type: gzgdyfu cyfu
   appId: ''
 color:
   brandColors:
@@ -17,10 +21,8 @@ color:
   rhythmicContrast: 0.3853417783975601
 title: ''
 author:
-  name: ''
+  name: dgydyd ydydy
   url: ''
   email: ''
 content_rating:
   adult: false
-coverPrefs:
-  filter: false
